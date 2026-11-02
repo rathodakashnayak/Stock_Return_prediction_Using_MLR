@@ -218,5 +218,3 @@ Upload the `report/` folder to [Overleaf](https://www.overleaf.com) and compile 
 ---
 
 ## License
-
-TODO: choose a license (for example MIT) and add a `LICENSE` file. This project is for educational purposes only and is **not financial advice**.
