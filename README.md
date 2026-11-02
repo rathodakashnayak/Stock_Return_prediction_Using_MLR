@@ -203,15 +203,8 @@ Upload the `report/` folder to [Overleaf](https://www.overleaf.com) and compile 
 
 ---
 
-## Team
 
-| Name | Roll No. | Contribution |
-|---|---|---|
-| TODO | TODO | TODO |
-| TODO | TODO | TODO |
-| TODO | TODO | TODO |
-
-**Guide:** TODO  |  **Institution:** TODO
+**Guide:** Minerva Mukhapadhayaya  |  **Institution:** Indian Statistical Institute Bangalore Center
 
 ---
 
